@@ -8,6 +8,8 @@ import android.support.annotation.Nullable;
 import android.test.mock.MockApplication;
 import android.test.mock.MockContext;
 
+import com.mparticle.kits_core.KitIntegration;
+
 import org.junit.Test;
 import org.mockito.Mockito;
 
